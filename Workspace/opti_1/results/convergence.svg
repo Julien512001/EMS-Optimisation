@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny" viewBox ="0 0 640.000000 480.000000">
+<title>pyqtgraph SVG export</title>
+<desc>Generated with Qt and pyqtgraph</desc>
+<style>
+    image {
+        image-rendering: crisp-edges;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: pixelated;
+    }
+</style>
+<rect width="100%" height="100%" style="fill:rgb(255, 255, 255)" />
+<defs>
+</defs>
+<g id="GraphicsScene_1">
+    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="myGraphicsLayout_1">
+        <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="PlotItem_1">
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ViewBox_1">
+                <g fill="none" stroke="none" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <path fill-rule="evenodd" d="M72.6,12.0 L628.0,12.0 L628.0,422.4 L72.6,422.4 L72.6,12.0 "/>
+                </g>
+                <clipPath id="ViewBox_1_clip">
+                    <path vector-effect="none" fill-rule="evenodd" d="M72.6,12.0 L628.0,12.0 L628.0,422.4 L72.6,422.4 L72.6,12.0 " stroke-width="1.0"/>
+                </clipPath>
+                <g clip-path="url(#ViewBox_1_clip)">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ChildGroup_1">
+                        <g id="PlotDataItem_1">
+                            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="PlotCurveItem_1">
+                                <g fill="none" stroke="#377eb8" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                                    <polyline fill="none" points="95.6205,31.713177080000037 101.54328000000001,149.7769449399999"/>
+                                    <polyline fill="none" points="101.54328000000001,149.7769449399999 107.46606000000001,237.11339948"/>
+                                    <polyline fill="none" points="107.46606000000001,237.11339948 113.38884000000002,244.38480915000002"/>
+                                    <polyline fill="none" points="113.38884000000002,244.38480915000002 119.31162,244.38799068999992"/>
+                                    <polyline fill="none" points="119.31162,244.38799068999992 125.23440000000001,244.38799068999992"/>
+                                    <polyline fill="none" points="125.23440000000001,244.38799068999992 131.15718,274.08448505"/>
+                                    <polyline fill="none" points="131.15718,274.08448505 137.07996,300.6582979"/>
+                                    <polyline fill="none" points="137.07996,300.6582979 143.00274000000002,300.66625175"/>
+                                    <polyline fill="none" points="143.00274000000002,300.66625175 148.92552,315.51927123999997"/>
+                                    <polyline fill="none" points="148.92552,315.51927123999997 154.8483,348.47048101999997"/>
+                                    <polyline fill="none" points="154.8483,348.47048101999997 160.77108,348.47048101999997"/>
+                                    <polyline fill="none" points="160.77108,348.47048101999997 166.69386000000003,356.89519894"/>
+                                    <polyline fill="none" points="166.69386000000003,356.89519894 172.61664000000002,356.89519894"/>
+                                    <polyline fill="none" points="172.61664000000002,356.89519894 178.53942,358.4621073899999"/>
+                                    <polyline fill="none" points="178.53942,358.4621073899999 184.4622,361.95861985"/>
+                                    <polyline fill="none" points="184.4622,361.95861985 190.38498,361.95861985"/>
+                                    <polyline fill="none" points="190.38498,361.95861985 196.30776000000003,367.17157313999996"/>
+                                    <polyline fill="none" points="196.30776000000003,367.17157313999996 202.23054000000002,367.43723173"/>
+                                    <polyline fill="none" points="202.23054000000002,367.43723173 208.15332,367.43723173"/>
+                                    <polyline fill="none" points="208.15332,367.43723173 214.0761,389.01125447"/>
+                                    <polyline fill="none" points="214.0761,389.01125447 219.99888,389.01125447"/>
+                                    <polyline fill="none" points="219.99888,389.01125447 225.92166000000003,392.13234521"/>
+                                    <polyline fill="none" points="225.92166000000003,392.13234521 231.84444000000002,392.13234521"/>
+                                    <polyline fill="none" points="231.84444000000002,392.13234521 237.76722,392.13234521"/>
+                                    <polyline fill="none" points="237.76722,392.13234521 243.69,393.58312745"/>
+                                    <polyline fill="none" points="243.69,393.58312745 249.61278000000004,393.58312745"/>
+                                    <polyline fill="none" points="249.61278000000004,393.58312745 255.53556000000003,393.58312745"/>
+                                    <polyline fill="none" points="255.53556000000003,393.58312745 261.45834,400.10210291"/>
+                                    <polyline fill="none" points="261.45834,400.10210291 267.38112,400.10210291"/>
+                                    <polyline fill="none" points="267.38112,400.10210291 273.3039,400.49661387"/>
+                                    <polyline fill="none" points="273.3039,400.49661387 279.22668000000004,400.49661387"/>
+                                    <polyline fill="none" points="279.22668000000004,400.49661387 285.14946000000003,400.57138005999997"/>
+                                    <polyline fill="none" points="285.14946000000003,400.57138005999997 291.07224,400.57138005999997"/>
+                                    <polyline fill="none" points="291.07224,400.57138005999997 296.99502,400.88635252"/>
+                                    <polyline fill="none" points="296.99502,400.88635252 302.9178,400.88635252"/>
+                                    <polyline fill="none" points="302.9178,400.88635252 308.84058000000005,400.88635252"/>
+                                    <polyline fill="none" points="308.84058000000005,400.88635252 314.76336000000003,400.97702641"/>
+                                    <polyline fill="none" points="314.76336000000003,400.97702641 320.68614,400.97702641"/>
+                                    <polyline fill="none" points="320.68614,400.97702641 326.60892,400.97702641"/>
+                                    <polyline fill="none" points="326.60892,400.97702641 332.5317,400.97702641"/>
+                                    <polyline fill="none" points="332.5317,400.97702641 338.45448000000005,401.45425740999997"/>
+                                    <polyline fill="none" points="338.45448000000005,401.45425740999997 344.37726000000004,401.67537444000004"/>
+                                    <polyline fill="none" points="344.37726000000004,401.67537444000004 350.30004,401.67537444000004"/>
+                                    <polyline fill="none" points="350.30004,401.67537444000004 356.22282,401.91558071"/>
+                                    <polyline fill="none" points="356.22282,401.91558071 362.1456,401.91558071"/>
+                                    <polyline fill="none" points="362.1456,401.91558071 368.06838,401.91558071"/>
+                                    <polyline fill="none" points="368.06838,401.91558071 373.99116000000004,401.91558071"/>
+                                    <polyline fill="none" points="373.99116000000004,401.91558071 379.91394,401.91558071"/>
+                                    <polyline fill="none" points="379.91394,401.91558071 385.83672,401.91558071"/>
+                                    <polyline fill="none" points="385.83672,401.91558071 391.7595,401.91558071"/>
+                                    <polyline fill="none" points="391.7595,401.91558071 397.68228,401.91558071"/>
+                                    <polyline fill="none" points="397.68228,401.91558071 403.60506000000004,401.91558071"/>
+                                    <polyline fill="none" points="403.60506000000004,401.91558071 409.52784,401.91558071"/>
+                                    <polyline fill="none" points="409.52784,401.91558071 415.45062,401.91558071"/>
+                                    <polyline fill="none" points="415.45062,401.91558071 421.3734,401.91558071"/>
+                                    <polyline fill="none" points="421.3734,401.91558071 427.29618,401.91558071"/>
+                                    <polyline fill="none" points="427.29618,401.91558071 433.21896000000004,401.91558071"/>
+                                    <polyline fill="none" points="433.21896000000004,401.91558071 439.14174,401.91558071"/>
+                                    <polyline fill="none" points="439.14174,401.91558071 445.06452,401.91558071"/>
+                                    <polyline fill="none" points="445.06452,401.91558071 450.9873,401.91558071"/>
+                                    <polyline fill="none" points="450.9873,401.91558071 456.91008,401.91558071"/>
+                                    <polyline fill="none" points="456.91008,401.91558071 462.83286000000004,402.24964241"/>
+                                    <polyline fill="none" points="462.83286000000004,402.24964241 468.75564,402.24964241"/>
+                                    <polyline fill="none" points="468.75564,402.24964241 474.67842,402.24964241"/>
+                                    <polyline fill="none" points="474.67842,402.24964241 480.6012,402.24964241"/>
+                                    <polyline fill="none" points="480.6012,402.24964241 486.52398,402.24964241"/>
+                                    <polyline fill="none" points="486.52398,402.24964241 492.44676000000004,402.24964241"/>
+                                    <polyline fill="none" points="492.44676000000004,402.24964241 498.36954000000003,402.24964241"/>
+                                    <polyline fill="none" points="498.36954000000003,402.24964241 504.29232,402.24964241"/>
+                                    <polyline fill="none" points="504.29232,402.24964241 510.2151,402.24964241"/>
+                                    <polyline fill="none" points="510.2151,402.24964241 516.13788,402.24964241"/>
+                                    <polyline fill="none" points="516.13788,402.24964241 522.0606600000001,402.24964241"/>
+                                    <polyline fill="none" points="522.0606600000001,402.24964241 527.9834400000001,402.24964241"/>
+                                    <polyline fill="none" points="527.9834400000001,402.24964241 533.9062200000001,402.24964241"/>
+                                    <polyline fill="none" points="533.9062200000001,402.24964241 539.8290000000001,402.24964241"/>
+                                    <polyline fill="none" points="539.8290000000001,402.24964241 545.75178,402.24964241"/>
+                                    <polyline fill="none" points="545.75178,402.24964241 551.67456,402.24964241"/>
+                                    <polyline fill="none" points="551.67456,402.24964241 557.59734,402.24964241"/>
+                                    <polyline fill="none" points="557.59734,402.24964241 563.52012,402.24964241"/>
+                                    <polyline fill="none" points="563.52012,402.24964241 569.4429,402.24964241"/>
+                                    <polyline fill="none" points="569.4429,402.24964241 575.36568,402.24964241"/>
+                                    <polyline fill="none" points="575.36568,402.24964241 581.2884600000001,402.24964241"/>
+                                    <polyline fill="none" points="581.2884600000001,402.24964241 587.2112400000001,402.48984868"/>
+                                    <polyline fill="none" points="587.2112400000001,402.48984868 593.1340200000001,402.49621176"/>
+                                    <polyline fill="none" points="593.1340200000001,402.49621176 599.0568000000001,402.68233185"/>
+                                    <polyline fill="none" points="599.0568000000001,402.68233185 604.97958,402.68233185"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_1">
+                        
+
+
+                        <g fill="none" stroke="none" transform="matrix(1,0,0,1,72.6,12)" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                            
+
+                            <rect x="0" y="0" width="555.4" height="410.4"/>
+                            
+
+                        </g>
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="myAxis_1">
+                <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="72.6,422.4 628.0,422.4"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="95.62049999999999,12.0 95.62049999999999,422.4"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.25098" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="214.076,12.0 214.076,422.4"/>
+                    <polyline fill="none" points="332.53200000000004,12.0 332.53200000000004,422.4"/>
+                    <polyline fill="none" points="450.98699999999997,12.0 450.98699999999997,422.4"/>
+                    <polyline fill="none" points="569.443,12.0 569.443,422.4"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.164706" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="154.8483,12.0 154.8483,422.4"/>
+                    <polyline fill="none" points="273.304,12.0 273.304,422.4"/>
+                    <polyline fill="none" points="391.759,12.0 391.759,422.4"/>
+                    <polyline fill="none" points="510.21500000000003,12.0 510.21500000000003,422.4"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,72.6,422.4)" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="19.5156" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">0</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="134.469" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">20</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="252.922" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">40</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="371.375" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">60</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="489.828" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">80</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="75.2344" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">10</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="193.703" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">30</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="312.156" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">50</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="430.609" y="15" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">70</text>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsTextItem_1">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,322.6,440.4)" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                        <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="24" font-family="39" font-size="20" font-weight="400" font-style="normal">Step </text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="myAxis_2">
+                <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="72.6,12.0 72.6,422.4"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="628.0,257.28 72.6,257.28"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.25098" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="628.0,416.357 72.6,416.357"/>
+                    <polyline fill="none" points="628.0,98.2036 72.6,98.2036"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="0.164706" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <polyline fill="none" points="628.0,384.541 72.6,384.541"/>
+                    <polyline fill="none" points="628.0,352.726 72.6,352.726"/>
+                    <polyline fill="none" points="628.0,320.911 72.6,320.911"/>
+                    <polyline fill="none" points="628.0,289.095 72.6,289.095"/>
+                    <polyline fill="none" points="628.0,225.465 72.6,225.465"/>
+                    <polyline fill="none" points="628.0,193.649 72.6,193.649"/>
+                    <polyline fill="none" points="628.0,161.834 72.6,161.834"/>
+                    <polyline fill="none" points="628.0,130.019 72.6,130.019"/>
+                    <polyline fill="none" points="628.0,66.3883 72.6,66.3883"/>
+                    <polyline fill="none" points="628.0,34.573 72.6,34.573"/>
+                </g>
+                <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,12,12)" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="250.266" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">40000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="409.344" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">30000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="91.2031" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">50000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="377.531" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">32000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="345.719" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">34000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="313.906" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">36000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="282.094" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">38000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="218.453" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">42000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="186.641" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">44000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="154.828" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">46000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="123.016" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">48000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="59.375" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">52000</text>
+                    <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="20.5938" y="27.5625" font-family="&quot;MS Shell Dlg 2&quot;" font-size="13" font-weight="400" font-style="normal">54000</text>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsTextItem_2">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1,1,0,2,266)" font-family="MS Shell Dlg 2" font-size="13" font-weight="400" font-style="normal">
+                        <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="24" font-family="39" font-size="20" font-weight="400" font-style="normal">Objective </text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+            </g>
+        </g>
+    </g>
+</g>
+
+</svg>

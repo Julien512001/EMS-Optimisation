@@ -162,7 +162,7 @@ if __name__ == "__main__":  # This line is necessary to spawn new processes
     The third evaluator also allows parallel run, but the characterizations are forked only once -> no extra penalty on initialization afterwards.
     """
     # theEvaluator = Evaluator(theOptiSettings)  # First evaluator -> One initialization, then proceeds in same thread
-    theEvaluator = MultiprocessEvaluator(theOptiSettings, number_of_cores=4)  # Second evaluator -> Parallel run, initializes Charac() at each run.
+    theEvaluator = MultiprocessEvaluator(theOptiSettings, number_of_cores=8)  # Second evaluator -> Parallel run, initializes Charac() at each run.
     # theEvaluator = PermanentMultiprocessEvaluator(theOptiSettings, number_of_cores=2)  # Third evaluator -> Parallel run, initializes Charac() at startup.
 
     """Start the optimization"""

@@ -1,0 +1,7 @@
+{
+	"data": 
+			[
+				{"__module__": "optimeed.optimize.optiAlgorithms.convergence.evolutionaryConvergence", "__class__": "EvolutionaryConvergence", "objectives_per_step": {}, "constraints_per_step": {}, "paretos_per_step": {}}
+			]
+	,"module_tree": {}
+}

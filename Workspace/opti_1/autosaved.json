@@ -1,0 +1,8 @@
+{
+    "nbr_elements": 8677,
+    "stack_size": 500,
+    "module_tree": {
+        "__class__": "Device",
+        "__module__": "Optimeed"
+    }
+}

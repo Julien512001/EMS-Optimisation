@@ -154,13 +154,13 @@ class MEC:
 
 
         p1_factor = 2
-        p2_factor = 1
-        p3_factor = 1
+        p2_factor = 2
+        p3_factor = 2
 
         m0_factor = 2
-        m1_factor = 1
-        m2_factor = 1
-        m7_factor = 1
+        m1_factor = 2
+        m2_factor = 2
+        m7_factor = 2
 
         self.p2 = int(np.round((self.l5-self.l2)*1000)/p2_factor)
         self.p3 = int(np.round((self.l7-self.l5)*1000/p3_factor))
