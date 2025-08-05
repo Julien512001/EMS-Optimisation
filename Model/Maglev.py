@@ -36,7 +36,7 @@ class Maglev:
         self.W_mag_quad = self.myMEC.get_W()
         self.R_coil = self.myMEC.get_CoilResistance()
         self.myMesh = Mesh(self.myMEC)
-        # self.myMesh.viewGeometry1()
+        self.myMesh.viewGeometry1()
         # self.myMesh.plotMesh()
         self.myNetwork = Network(self.myMEC, self.myMesh)
         self.mySolver = Solver(self.myMEC, self.myNetwork)
@@ -98,8 +98,8 @@ class Maglev:
             #       f"Fz0 = {Fz0_test}\n",
             #       f"error = {100-100*myMaxwellFourier.Fz/Fz0_test}\n",
             #       f"v_mag = {self.myMEC.v_mag}\n")
-            # print(f"Fy = {myMaxwellFourier.Fy+error_factor*myMaxwellFourier.Fy}\n",
-            #       f"Fz = {myMaxwellFourier.Fz + error_factor*myMaxwellFourier.Fz}\n",
+            # print(f"Fy = {Fy}\n",
+            #       f"Fz = {Fz}\n",
             #       f"Fz0 = {Fz0}\n",
             #       f"v_mag = {self.myMEC.v_mag}\n")
             self.P_tot = self.get_Losses(self.myMEC, Fy, Fz, Fz0, k)
@@ -408,17 +408,17 @@ class Maglev:
         P_tot = P_drag + P_J
         S_fil = myMEC.params["S_fil"]
 
-        # print(
-        #     f"Pertes Joules [kW] : {P_J*1e-3}\n"
-        #     f"Pertes par traînée magnétique [kW] : {P_drag*1e-3}\n"
-        #     f"Pertes totales [kW] : {P_tot*1e-3}\n"
-        #     f"Vitesse [m/s] : {myMEC.v_mag}\n"
-        #     f"Courant statique [A]: {I0}\n"
-        #     f"Courant total [A]: {I_tot}\n"
-        #     f"Densité de courant [A/mm^2] : {I_tot/(S_fil*1e6)}\n"
-        #     f"Résistance : {self.R_coil} Ohm\n"
-        #     f"Fz : {Fz} N\n"
-        #     f"Fy : {Fy} N\n")
+        print(
+            f"Pertes Joules [kW] : {P_J*1e-3}\n"
+            f"Pertes par traînée magnétique [kW] : {P_drag*1e-3}\n"
+            f"Pertes totales [kW] : {P_tot*1e-3}\n"
+            f"Vitesse [m/s] : {myMEC.v_mag}\n"
+            f"Courant statique [A]: {I0}\n"
+            f"Courant total [A]: {I_tot}\n"
+            f"Densité de courant [A/mm^2] : {I_tot/(S_fil*1e6)}\n"
+            f"Résistance : {self.R_coil} Ohm\n"
+            f"Fz : {Fz} N\n"
+            f"Fy : {Fy} N\n")
 
 
         return P_tot

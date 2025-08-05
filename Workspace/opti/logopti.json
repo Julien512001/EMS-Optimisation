@@ -1,7 +1,0 @@
-{
-	"data": 
-			[
-				{"time": 33.47315740585327, "objectives": [55650.693069020796], "constraints": []}
-			]
-	,"module_tree": {"__class__": "OptiHistoric._pointData", "__module__": "optimeed.optimize.optiHistoric"}
-}
