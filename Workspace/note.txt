@@ -1,1 +1,0 @@
-opti_1 : Optimisation avec facteur de correction
